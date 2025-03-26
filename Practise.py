@@ -1,2 +1,2 @@
 print("GitHub Workflows is interesting")
-print("I have created a new branch")
+print("Created a second branch as a collaborator")
